@@ -12,7 +12,7 @@
     font-size: 20px;
     color:blue ;
     font-family: Verdana;
-    margin: 20px;
+
 }
 .movie_head
 {
@@ -25,4 +25,12 @@
 .achievement_text span
 {
 color:goldenrod;
+}
+.new
+{
+    margin-bottom:20px;
+}
+#contact iframe
+{
+width:100%;
 }
